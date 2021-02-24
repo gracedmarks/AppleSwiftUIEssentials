@@ -58,11 +58,11 @@
 			children = (
 				531F90C025E6B1F0006CD89C /* LandmarksApp.swift */,
 				531F90C225E6B1F0006CD89C /* ContentView.swift */,
+				5302B99725E6C1A9003BAEDE /* MapView.swift */,
 				5302B99225E6B85D003BAEDE /* CircleImage.swift */,
 				531F90C425E6B1F2006CD89C /* Assets.xcassets */,
 				531F90C925E6B1F2006CD89C /* Info.plist */,
 				531F90C625E6B1F2006CD89C /* Preview Content */,
-				5302B99725E6C1A9003BAEDE /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
