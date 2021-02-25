@@ -1,5 +1,5 @@
 //
-//  Lanmark.swift
+//  Landmark.swift
 //  Landmarks
 //
 //  Created by Mark Rachapoom on 25/2/21.
@@ -35,3 +35,4 @@ struct Landmark: Hashable, Codable {
         var longitude: Double
     }
 }
+
